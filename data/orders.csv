@@ -1,0 +1,5 @@
+order_id,customer,product,status,expected_delivery
+ORD1001,Ravi,HP Pavilion 15,Shipped,2026-10-06
+ORD1002,Ananya,OnePlus Nord 4,Out for Delivery,2026-10-03
+ORD1003,Arjun,Boat Rockerz 450,Delivered,2026-09-30
+ORD1004,Meera,Lenovo IdeaPad Slim 5,Processing,2026-10-08

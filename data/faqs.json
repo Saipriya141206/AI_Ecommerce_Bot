@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the return policy?",
+    "answer": "Products can be returned within 7 days of delivery if they meet the return conditions."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes 3 to 5 business days."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled before they are shipped."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept UPI, debit card, credit card, net banking, and cash on delivery."
+  },
+  {
+    "question": "Do you offer warranty?",
+    "answer": "Most electronic products come with a manufacturer warranty as mentioned in the product details."
+  }
+]
